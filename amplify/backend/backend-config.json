@@ -1,0 +1,9 @@
+{
+  "function": {
+    "amplifyenvandgithub080c2dcb": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  }
+}

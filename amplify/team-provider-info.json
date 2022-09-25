@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyenvandgithub-dev-82342-authRole",
+      "UnauthRoleArn": "arn:aws:iam::439331757783:role/amplify-amplifyenvandgithub-dev-82342-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::439331757783:role/amplify-amplifyenvandgithub-dev-82342-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-amplifyenvandgithub-dev-82342-deployment",
+      "UnauthRoleName": "amplify-amplifyenvandgithub-dev-82342-unauthRole",
+      "StackName": "amplify-amplifyenvandgithub-dev-82342",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:439331757783:stack/amplify-amplifyenvandgithub-dev-82342/b749d370-3d20-11ed-8c99-062f77315c9a",
+      "AmplifyAppId": "drq3hacnqgyww"
+    },
+    "categories": {
+      "function": {
+        "amplifyenvandgithub080c2dcb": {
+          "deploymentBucketName": "amplify-amplifyenvandgithub-dev-82342-deployment",
+          "s3Key": "amplify-builds/amplifyenvandgithub080c2dcb-38366b64393736556865-build.zip"
+        }
+      }
+    }
+  }
+}
